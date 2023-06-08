@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Joohyuk</h1>
+<h1 align="center">Hi 👋 I'm Joohyuk</h1>
 
  ## A passionate 4th year CSEE student at [@Handong Univ.](https://www.handong.edu)
 
