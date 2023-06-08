@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **Unity, C#, AI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/jh2277](https://github.com/jh2277)
-
 - 💬 Ask me about **Django, Python**
+
+- 👨‍💻 All of my projects are available at [https://github.com/jh2277](https://github.com/jh2277)
 
 - 📫 How to reach me **neworld239@gmail.com**
 
