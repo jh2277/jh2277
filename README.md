@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **neworld239@gmail.com**
 
-- ⚡ Fun fact **I love playing basketball and watching Youtube**
+- ⚡ About Me **"I love playing basketball and watching Youtube"**
 
 
 <h3 align="left">Languages and Tools:</h3>
