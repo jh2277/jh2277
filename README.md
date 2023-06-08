@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [InhousePrediction](https://github.com/jh2277/InHousePredictor)
 
-- 🌱 I’m currently learning **Unity, C#, Django, AI**
+- 🌱 I’m currently learning **Unity, C#, AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jh2277](https://github.com/jh2277)
 
