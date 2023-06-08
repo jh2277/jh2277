@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joohyuk</h1>
-<h3 align="center">A passionate 4th year CSEE student at Handong Univ. and aspiring backend developer.</h3>
+<h3 align="center">A passionate 4th year CSEE student at [@Handong Univ.](https://www.handong.edu)
+  and aspiring backend developer.</h3>
 
 - 🔭 I’m currently working on [InhousePrediction](https://github.com/jh2277/InHousePredictor)
 
