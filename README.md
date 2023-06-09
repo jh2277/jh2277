@@ -2,7 +2,7 @@
 
  ## A passionate 4th year CSEE student at [@Handong Univ.](https://www.handong.edu)
 
-- 🔭 I’m currently working on [InhousePrediction](https://github.com/jh2277/InHousePredictor)
+- 🔭 I’m currently working on [InhousePrediction](https://github.com/rielmvp/InHousePredictor)
 
 - 🌱 I’m currently learning **Unity, C#, AI**
 
